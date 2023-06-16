@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/providers/registry.terraform.io/hashicorp/vsphere/2.4.0/linux_amd64/terraform-provider-vsphere_v2.4.0_x5
+*.bk
